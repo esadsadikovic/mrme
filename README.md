@@ -2,7 +2,7 @@
 Flagship paper of Resonance Cosmology. Resonance Substrate Theory formalized through the Mathematical Resonance Model of Ether (MRME).
 # Resonance Substrate Theory: The Mathematical Resonance Model of Ether (MRME)
 
-**DOI:** [to be minted on Zenodo]  
+**DOI:** [https://doi.org/10.5281/zenodo.20100569]  
 **License:** Creative Commons Attribution 4.0 International (CC-BY 4.0)
 
 ## Abstract
